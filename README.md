@@ -1,28 +1,22 @@
-# WordPress Plugin - Simple Post View Counter
+# PHP + MySQL Blog Management System
 
-A simple plugin to count and display how many times a post has been viewed. Uses WordPress `meta` fields to store view counts.
+This is a simple blog management system built with **PHP**, **MySQL**, **HTML**, and **CSS**. It demonstrates core CRUD (Create, Read, Update, Delete) functionality with a simple database-driven structure.
 
 ---
 
 ## 🚀 Features
-✅ Counts views on each post  
-✅ Stores count in WordPress post meta  
-✅ Displays view count at the bottom of post content
+- Admin Login (username: `admin`, password: `admin@123`)
+- Create, Edit, Delete Blog Posts
+- View all posts on the frontend
+- Basic responsive styling with CSS
 
 ---
 
 ## 🛠️ Technologies Used
 - PHP (Core)
-- WordPress Hooks & Meta Fields
+- MySQL (Database)
+- HTML & CSS (Frontend)
 
 ---
 
-## 🔧 How to Setup Locally
-1. Upload this folder to your WordPress installation under `wp-content/plugins/`
-2. Activate the plugin from your WordPress dashboard.
-3. Open any blog post on your site to see the view count.
-4. Views increment every time someone accesses the post.
-
----
-
-## 🗂️ File Structure
+## 📂 Folder Structure
