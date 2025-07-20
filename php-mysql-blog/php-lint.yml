@@ -1,0 +1,23 @@
+
+---
+
+## 🔧 How to Setup Locally
+1. Import `posts.sql` into your MySQL database (Database Name: `blogdb`)
+2. Update your MySQL credentials inside `db.php`
+3. Run the project on your local XAMPP/WAMP/LAMP server.
+4. Navigate to `http://localhost/php-mysql-blog/index.php`
+5. Admin Login Credentials:
+   - Username: `admin`
+   - Password: `admin@123`
+
+---
+
+## 🎯 Purpose
+- Demonstrates MySQL connectivity
+- Basic PHP CRUD
+- Prepared for use in small-scale CMS systems
+
+---
+
+## 👨‍💻 Author
+Mopuri Chandu
